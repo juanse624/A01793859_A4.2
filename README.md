@@ -1,5 +1,6 @@
 # A01793859_A4.2
-Actividad de la asignatura pruebas de software 
+# Juan Sebastian Tellez Lopez
+# Actividad de la asignatura pruebas de software y aseguramiento de la calidad
 
 # Notas generales
 Se ha realizado un cambio de nombre diferente al sugerido para que cumpla con esta recomendación
